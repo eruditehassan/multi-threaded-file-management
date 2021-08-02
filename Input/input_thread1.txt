@@ -1,0 +1,5 @@
+create 1.txt
+create 4.txt
+write_to_file 1.txt ABC XYZ
+delete 4.txt
+read_from_file 1.txt

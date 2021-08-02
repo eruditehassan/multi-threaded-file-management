@@ -25,5 +25,5 @@ The user is provided with an interface to use the system.
 - User must make sure that the commands in the files are correct, and not invoking any errors.
 - For input files, there must be in a folder named “Input” present in the same directory as the python script
 - Output generated during the execution for each thread will be saved in separate files dedicated to each thread having file formats “output_thread[x]", where x is thread number
-- To run the script from command line, following command can be used: `python lab_9.py -k`
+- To run the script from command line, following command can be used: `python MultiThreadedFileManagement.py -k`
 where k is the number of threads to run

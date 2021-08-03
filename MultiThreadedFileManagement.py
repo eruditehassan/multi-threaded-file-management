@@ -1,5 +1,5 @@
 from threading import Thread, Lock
-from lab6_code import *
+from BaseFunctionality import *
 import argparse
 
 parser = argparse.ArgumentParser()
